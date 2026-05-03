@@ -1,0 +1,3 @@
+churn_flag,customers,total_spend,avg_spend
+Active,15159,2132886.08,140.7
+High Risk,80937,11458757.62,141.58
